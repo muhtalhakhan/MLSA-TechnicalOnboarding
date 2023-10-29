@@ -19,9 +19,9 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/design-desk.jpeg";
+import image from "../images/mid-header.jpg";
 
-const imageAltText = "desktop with books and laptop";
+const imageAltText = "a dark room with a laptop";
 
 /**
  * Project list
@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "10 Data Science Projects that will Give You an Edge Over Any Candidate 🎉",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "Data science has emerged as a crucial field in today’s technology-driven world. With the increasing reliance on data-driven decision-making, organizations are actively seeking skilled data scientists who can extract meaningful insights from large datasets.",
+    url: "https://muhtalhakhan.medium.com/10-data-science-projects-that-will-give-you-an-edge-over-any-candidate-79e274e5d196",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Data Science and It’s Important Tools",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "Data science is a rapidly evolving field that relies on various tools and technologies to extract meaningful insights from large volumes of data.",
+    url: "https://muhtalhakhan.medium.com/data-science-and-its-important-tools-ed5f857dfddc",
   },
   {
     title: "My Resume Site",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "Sharing my LinkedIn over here as I maintain it daily.",
+    url: "https://linkedin.com/in/muhtalhakhan",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "🐍 Python Types and Variables Explained: A Beginner's Guide to Mastering | Python Basic Tutorial 🚀",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "Welcome to the first tutorial of our Python series on naas.ai! Whether you're a programming novice or a seasoned coder looking to expand your skill set, this tutorial is the perfect starting point for your Python journey.",
+    url: "https://www.youtube.com/watch?v=PA2xCCgTqRA",
   },
 ];
 
